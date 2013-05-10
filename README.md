@@ -1,6 +1,6 @@
 # zenith
 
-Emmet (Zen Coding) as an API should be a thing.
+[Emmet](http://emmet.io/) (a.k.a. Zen Coding) as an API should be a thing.
 
 ```sh
 $ curl -i http://cobyism.com/zenith/?expand=html:5>body>header>h1{Demonstration}<p{Woot!}
