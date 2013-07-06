@@ -1,4 +1,7 @@
 module Zenith
+
+  VERSION = '0.0.1'
+
   def self.expand(input = "")
     Zenith::Expander.expand(input)
   end
